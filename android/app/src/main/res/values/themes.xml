@@ -1,0 +1,13 @@
+<resources>
+    <style name="Theme.MissedCallLogger" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#1a73e8</item>
+        <item name="colorPrimaryVariant">#1557b0</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#34a853</item>
+        <item name="colorSecondaryVariant">#2d8f47</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="android:statusBarColor">#1a73e8</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+</resources>
